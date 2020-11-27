@@ -14,7 +14,7 @@ Main features:
 -Admin can approve or delete
 -Users will be able to rate restaurants
 -Google map 
-- Search option
+-Search option
 
 
 Operating system: Any
