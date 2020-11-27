@@ -8,13 +8,13 @@ Type of app: Web application
 
 Main features:
 
--Website displays reviews of restaurants on the landing page.
--User can register, sign-in, sign-out
--Users are able to add new restaurants, add new full review feedback.
--Admin can approve or delete
--Users will be able to rate restaurants
--Google map 
--Search option
+1.Website displays reviews of restaurants on the landing page.
+2.User can register, sign-in, sign-out
+3.Users are able to add new restaurants, add new full review feedback.
+5.Admin can approve or delete
+6.Users will be able to rate restaurants
+7.Google map 
+8.Search option
 
 
 Operating system: Any
